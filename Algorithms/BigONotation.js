@@ -1,4 +1,4 @@
-/* BIG O NOTATION*/
+// !BIG O NOTATION
 /*
 1. The Worst case complexity of an algorithm is represented using the Big-O notaion
 2. Big-O notaion described the complexity of an algorithm using terms
@@ -8,7 +8,7 @@ It has two important characteristics
 */
 
 
-/* Big O Time Complexity*/
+// !Big O Time Complexity
 
 /*
 1. O(n) - Linear Time Complexity
@@ -18,7 +18,7 @@ It has two important characteristics
 5, O(logn) - Logarthmic Time Complexity
 */
 
-/*Big O Space Complexity*/
+// !Big O Space Complexity
 
 /*
 1. O(1) - Linear Space Complexity
